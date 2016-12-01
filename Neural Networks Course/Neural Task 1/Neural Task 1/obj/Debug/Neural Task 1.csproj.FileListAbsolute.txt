@@ -1,0 +1,25 @@
+E:\College\Neural Network\Practical\Neural Task 1\Neural Task 1\bin\Debug\Neural Task 1.exe.config
+E:\College\Neural Network\Practical\Neural Task 1\Neural Task 1\bin\Debug\Neural Task 1.exe
+E:\College\Neural Network\Practical\Neural Task 1\Neural Task 1\bin\Debug\Neural Task 1.pdb
+E:\College\Neural Network\Practical\Neural Task 1\Neural Task 1\bin\Debug\MathNet.Numerics.dll
+E:\College\Neural Network\Practical\Neural Task 1\Neural Task 1\bin\Debug\MathNet.Numerics.xml
+E:\College\Neural Network\Practical\Neural Task 1\Neural Task 1\obj\Debug\Neural Task 1.csprojResolveAssemblyReference.cache
+E:\College\Neural Network\Practical\Neural Task 1\Neural Task 1\obj\Debug\Neural_Task_1.Form1.resources
+E:\College\Neural Network\Practical\Neural Task 1\Neural Task 1\obj\Debug\Neural_Task_1.Properties.Resources.resources
+E:\College\Neural Network\Practical\Neural Task 1\Neural Task 1\obj\Debug\Neural Task 1.csproj.GenerateResource.Cache
+E:\College\Neural Network\Practical\Neural Task 1\Neural Task 1\obj\Debug\Neural Task 1.exe
+E:\College\Neural Network\Practical\Neural Task 1\Neural Task 1\obj\Debug\Neural Task 1.pdb
+I:\neural\Practical\Neural Task 1\Neural Task 1\bin\Debug\Neural Task 1.exe.config
+I:\neural\Practical\Neural Task 1\Neural Task 1\obj\Debug\Neural Task 1.exe
+I:\neural\Practical\Neural Task 1\Neural Task 1\obj\Debug\Neural Task 1.pdb
+I:\neural\Practical\Neural Task 1\Neural Task 1\bin\Debug\Neural Task 1.exe
+I:\neural\Practical\Neural Task 1\Neural Task 1\bin\Debug\Neural Task 1.pdb
+I:\neural\Practical\Neural Task 1\Neural Task 1\bin\Debug\MathNet.Numerics.dll
+I:\neural\Practical\Neural Task 1\Neural Task 1\bin\Debug\MathNet.Numerics.xml
+I:\neural\Practical\Neural Task 1\Neural Task 1\obj\Debug\Neural Task 1.csprojResolveAssemblyReference.cache
+I:\neural\Practical\Neural Task 1\Neural Task 1\obj\Debug\Neural_Task_1.Form1.resources
+I:\neural\Practical\Neural Task 1\Neural Task 1\obj\Debug\Neural_Task_1.Properties.Resources.resources
+I:\neural\Practical\Neural Task 1\Neural Task 1\obj\Debug\Neural Task 1.csproj.GenerateResource.Cache
+E:\Computer Science\New folder\Neural\Neural Task 1\Neural Task 1\bin\Debug\Neural Task 1.exe.config
+E:\Computer Science\New folder\Neural\Neural Task 1\Neural Task 1\obj\Debug\Neural Task 1.exe
+E:\Computer Science\New folder\Neural\Neural Task 1\Neural Task 1\obj\Debug\Neural Task 1.pdb

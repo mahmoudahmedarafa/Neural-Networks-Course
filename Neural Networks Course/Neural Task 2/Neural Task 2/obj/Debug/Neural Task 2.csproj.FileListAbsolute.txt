@@ -1,0 +1,22 @@
+E:\College\Neural Network\Practical\Neural Task 2\Neural Task 2\bin\Debug\Neural Task 2.exe.config
+E:\College\Neural Network\Practical\Neural Task 2\Neural Task 2\bin\Debug\Neural Task 2.exe
+E:\College\Neural Network\Practical\Neural Task 2\Neural Task 2\bin\Debug\Neural Task 2.pdb
+E:\College\Neural Network\Practical\Neural Task 2\Neural Task 2\bin\Debug\MathNet.Numerics.dll
+E:\College\Neural Network\Practical\Neural Task 2\Neural Task 2\bin\Debug\MathNet.Numerics.xml
+E:\College\Neural Network\Practical\Neural Task 2\Neural Task 2\obj\Debug\Neural Task 2.csprojResolveAssemblyReference.cache
+E:\College\Neural Network\Practical\Neural Task 2\Neural Task 2\obj\Debug\Neural_Task_2.Form1.resources
+E:\College\Neural Network\Practical\Neural Task 2\Neural Task 2\obj\Debug\Neural_Task_2.Properties.Resources.resources
+E:\College\Neural Network\Practical\Neural Task 2\Neural Task 2\obj\Debug\Neural Task 2.csproj.GenerateResource.Cache
+E:\College\Neural Network\Practical\Neural Task 2\Neural Task 2\obj\Debug\Neural Task 2.exe
+E:\College\Neural Network\Practical\Neural Task 2\Neural Task 2\obj\Debug\Neural Task 2.pdb
+I:\neural\Practical\Neural Task 2\Neural Task 2\bin\Debug\Neural Task 2.exe.config
+I:\neural\Practical\Neural Task 2\Neural Task 2\obj\Debug\Neural Task 2.exe
+I:\neural\Practical\Neural Task 2\Neural Task 2\obj\Debug\Neural Task 2.pdb
+I:\neural\Practical\Neural Task 2\Neural Task 2\bin\Debug\Neural Task 2.exe
+I:\neural\Practical\Neural Task 2\Neural Task 2\bin\Debug\Neural Task 2.pdb
+I:\neural\Practical\Neural Task 2\Neural Task 2\bin\Debug\MathNet.Numerics.dll
+I:\neural\Practical\Neural Task 2\Neural Task 2\bin\Debug\MathNet.Numerics.xml
+I:\neural\Practical\Neural Task 2\Neural Task 2\obj\Debug\Neural Task 2.csprojResolveAssemblyReference.cache
+I:\neural\Practical\Neural Task 2\Neural Task 2\obj\Debug\Neural_Task_2.Form1.resources
+I:\neural\Practical\Neural Task 2\Neural Task 2\obj\Debug\Neural_Task_2.Properties.Resources.resources
+I:\neural\Practical\Neural Task 2\Neural Task 2\obj\Debug\Neural Task 2.csproj.GenerateResource.Cache
